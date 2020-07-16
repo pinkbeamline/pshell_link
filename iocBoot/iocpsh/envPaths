@@ -1,0 +1,3 @@
+epicsEnvSet("IOC","iocpsh")
+epicsEnvSet("TOP","/home/epics/IOCs/pshell_client")
+epicsEnvSet("EPICS_BASE","/home/epics/EPICS/base")

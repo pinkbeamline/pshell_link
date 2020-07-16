@@ -1,0 +1,12 @@
+record(waveform, "$(BL):$(DEV):pshell")
+{
+  field(NELM, "131072")
+  field(FTVL, "CHAR")
+}
+
+record(ao, "$(BL):$(DEV):buffersize")
+{ 
+  field(VAL, "100")
+  field(DRVH, "1000")
+  field(DRVL, "10")
+}
