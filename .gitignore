@@ -1,5 +1,20 @@
-lib/
+bin/
 dbd/
+db/
+
+# epics 
+*~
+O.*
+*.swp
+*_BAK.adl
+bin/
+db/
+dbd/
+html/
+include/
+lib/
+templates/
+envPaths
 
 # Prerequisites
 *.d
